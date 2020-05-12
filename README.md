@@ -1,0 +1,2 @@
+# DBPraktinis
+Duomenu baziu praktika
